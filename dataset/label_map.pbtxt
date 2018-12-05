@@ -1,0 +1,16 @@
+item {
+ id: 1
+ name: 'litter'
+}
+item {
+ id: 2
+ name: 'wheat'
+}
+item {
+ id: 3
+ name: 'oats'
+}
+item {
+ id: 4
+ name: 'semka'
+}
